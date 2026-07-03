@@ -32,9 +32,9 @@ Take your server to the next level with our meticulously crafted paid resources.
 
 - **Weed System** - Advanced growth, processing, and distribution.
 - **Brewery** - Interactive and immersive brewing systems.
-- **Bag System** - Functional and stylish player storage.
-- **Otto's Autos** - Premium dealership management.
-- **Recycle** - Economy-balanced resource recycling.
+- **Bag System** - Wearable and carryable bags with configurable props that persist on the ground.
+- **Otto's Autos** - Premium used car dealership management.
+- **Recycle** - World object recycling aka pickup anything and recycle it with confugrable outputs.
 - **Billing for lb-phone** - Comprehensive invoicing and financial tracking.
 
 ---
